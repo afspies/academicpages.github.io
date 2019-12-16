@@ -11,7 +11,7 @@ title                    : ""
 title_separator          : "-"
 name                     : &name "Alexander F. Spies"
 description              : &description "MSc Student at Imperial College London"
-url                      : https://afspies.github.io/academicpages.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://afspies.github.io/academic-page/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Alex Spies"
-  avatar           : "profile.png"
+  name             : "Alexander Fabian Spies"
+  avatar           : "profile.jpg"
   bio              : "Msc Student in AI and ML at Imperial College London. Interested in creating robust artificial intelligence to help solve some of humanities greatest challenges."
   location         : "London, GB"
   employer         : "Imperial College London"
@@ -254,7 +254,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/London # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
