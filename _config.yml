@@ -9,7 +9,7 @@
 locale                   : "en-GB"
 title                    : ""
 title_separator          : "-"
-name                     : &name "Alexander F. Spies"
+name                     : &name "Alexander Fabian Spies"
 description              : &description "MSc Student at Imperial College London"
 url                      : https://afspies.github.io/academic-page/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Alexander Fabian Spies"
+  name             : "Alexander F. Spies"
   avatar           : "profile.jpg"
-  bio              : "Msc Student in AI and ML at Imperial College London. Interested in creating robust and generalizable AI, preferably without spawning Skynet."
+  bio              : "Msc Student in AI and ML at Imperial College London.\n Interested in creating robust and generalizable AI, preferably without spawning Skynet."
   location         : 
   employer         : "Imperial College London, GB"
   googlescholar    : "https://scholar.google.com/citations?user=Jfp2pAQAAAAJ"
