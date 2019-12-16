@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Alexander Fabian Spies"
   avatar           : "profile.jpg"
-  bio              : "Msc Student in AI and ML at Imperial College London. Interested in creating robust artificial intelligence to help solve some of humanities greatest challenges."
-  location         : "London, GB"
-  employer         : "Imperial College London"
+  bio              : "Msc Student in AI and ML at Imperial College London. Interested in creating robust and generalizable AI, preferably without spawning Skynet."
+  location         : 
+  employer         : "Imperial College London, GB"
   googlescholar    : "https://scholar.google.com/citations?user=Jfp2pAQAAAAJ"
   email            : "alex@afspies.com"
   researchgate     : "https://www.researchgate.net/profile/Alexander_Spies"
