@@ -213,7 +213,7 @@ defaults:
       path: ""
       type: teaching
     values:
-      layout: single
+      layout: single-noside
       author_profile: false
       share: true
       comments: false
@@ -223,7 +223,7 @@ defaults:
       path: ""
       type: publications
     values:
-      layout: single
+      layout: single-noside
       author_profile: false
       share: true
       comments: true
@@ -233,10 +233,10 @@ defaults:
       path: ""
       type: projects
     values:
-      layout: single
+      layout: single-noside
       author_profile: false
       share: true
-      comment: true
+      comments: true
       sidebar: false
   # _talks
   - scope:
