@@ -6,6 +6,7 @@ permalink: /teaching/2018-python-classes
 venue: "University of Manchester, CS Department"
 date: 2018-10-01
 location: "Manchester, GB"
+comments: false
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.

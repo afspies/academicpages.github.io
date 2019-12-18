@@ -216,7 +216,8 @@ defaults:
       layout: single
       author_profile: false
       share: true
-      comments: true
+      comments: false
+      sidebar: false
   # _publications
   - scope:
       path: ""
@@ -226,7 +227,8 @@ defaults:
       author_profile: false
       share: true
       comments: true
-  # _portfolio
+      sidebar: false
+  # _projects
   - scope:
       path: ""
       type: projects
@@ -235,6 +237,7 @@ defaults:
       author_profile: false
       share: true
       comment: true
+      sidebar: false
   # _talks
   - scope:
       path: ""
