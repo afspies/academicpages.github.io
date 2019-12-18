@@ -7,8 +7,8 @@
 
 # Site Settings
 locale                   : "en-GB"
-title                    : ""
-title_separator          : "-"
+title                    : "A. Spies"
+title_separator          : "|"
 name                     : &name "Alexander Fabian Spies"
 description              : &description "MSc Student at Imperial College London"
 url                      : "https://afspies.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -21,9 +21,9 @@ future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
-    shortname            :
+    shortname            : afspies-com
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -84,7 +84,7 @@ author:
   avatar           : "profile.jpg"
   bio              : "Msc Student in AI and ML at Imperial College London.\n Interested in creating robust and generalizable AI, preferably without spawning Skynet."
   location         : 
-  employer         : "Imperial College London, GB"
+  employer         : "Imperial College London"
   googlescholar    : "https://scholar.google.com/citations?user=Jfp2pAQAAAAJ"
   email            : "alex@afspies.com"
   researchgate     : "https://www.researchgate.net/profile/Alexander_Spies"
