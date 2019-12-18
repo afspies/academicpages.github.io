@@ -1,15 +1,17 @@
 ---
-title: "Paper Title Number 1"
+title: "Nonlocal Thresholds for Improving the
+Spatial Resolution of Pixel Detectors"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
+permalink: /publication/2019-09-charge-sharing
+excerpt: 'Investigating the potential use of charge sharing between neighboring pixels in HEP sensors to increase resolution and radiation hardness.'
+date: 2019-09-30
+venue: 'Journal of Instrumentation'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Nachman, B. \& Spies, A.F. (2019). &quot;Nonlocal Thresholds for Improving the
+Spatial Resolution of Pixel Detectors&quot; <i>Journal of Instrumentation</i>. 14(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+Pixel detectors only record signals above a tuned threshold in order to suppress noise. As sensors become thinner, pitches decrease, and radiation damage reduces the collected charge, it is increasingly desirable to lower thresholds. By making the observation that hit pixels tend to be spatially close to each other, we discuss two schemes for dynamic threshold adjustment which could be realized at the level of frontend electronics: one utilizing cross-talk originating from capacitive coupling between neighboring pixels, and the other requiring the use of a nominal high threshold and a triggerable low neighbor threshold. These schemes are tested in the context of single particle simulations with a single pixel layer following the specifications of upcoming ATLAS and CMS detector upgrades. By adjusting the parameters of each algorithm, we find that the pixel cluster position resolution in both schemes is more stable under threshold changes than the default fixed threshold approach. These dynamic threshold methods may have important implications for pixel readout chip design at the Large Hadron Collider and other future colliders.
 
-[Download paper here](https://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://iopscience.iop.org/article/10.1088/1748-0221/14/09/P09028/pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Nachman, B. & Spies, A. F. Nonlocal thresholds for improving the spatial resolution of pixel detectors. <i>J. Inst.</i> 14, P09028–P09028 (2019)..
