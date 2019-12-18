@@ -2,7 +2,7 @@
 permalink: /playground/
 title: "Some fun things made using P5.js"
 excerpt: "And you may ask yourself, \"Well... how did I get here?\""
-author_profile: true
+author_profile: false
 redirect_from: 
   - "/nmp/"
   - "/nmp.html"
