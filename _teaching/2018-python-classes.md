@@ -11,4 +11,4 @@ comments: false
 
 Materials
 ======
-Available online at [this link](python.afspies.com)
+Available online at [this link](https://python.afspies.com)
