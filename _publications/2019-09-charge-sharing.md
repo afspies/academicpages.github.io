@@ -7,6 +7,7 @@ excerpt: 'Investigating the potential use of charge sharing between neighboring 
 date: 2019-09-30
 venue: 'Journal of Instrumentation'
 paperurl: 'https://iopscience.iop.org/article/10.1088/1748-0221/14/09/P09028/pdf'
+biburl: /files/2019-09-charge-sharing/nachman2019nonlocal.bib
 citation: 'Nachman, B. & <b>Spies, A.F.</b> (2019). <u>&quot;Nonlocal Thresholds for Improving the
 Spatial Resolution of Pixel Detectors&quot</u>; <i>Journal of Instrumentation</i>.'
 ---
