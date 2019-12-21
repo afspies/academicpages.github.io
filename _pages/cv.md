@@ -8,6 +8,17 @@ redirect_from:
 ---
 
 {% include base_path %}
+<!-- <script language="javascript" src="/assets/js/email_hide.js"></script> -->
+
+<!-- [Download PDF](/files/Alex_Spies-CV.pdf) -->
+
+<object data="/files/Alex_Spies-CV.pdf" type="application/pdf" width="100%" height="100%">
+  <a href="/files/Alex_Spies-CV.pdf">Available as PDF</a>
+</object>
+
+<!-- 
+<h2 style="text-align: center;">Alexander F. Spies</h2>
+<p style="text-align: center;"><script>mail("alex","afspies",0,"")</script> |  </p>
 
 Education
 ======
@@ -53,7 +64,4 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+ -->

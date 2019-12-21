@@ -90,11 +90,11 @@ $xing-color                 : #006567;
 
 
 /* links */
-$link-color                 : $info-color;
-$link-color-hover           : mix(#000, $link-color, 25%);
-$link-color-visited         : mix(#fff, $link-color, 25%);
+$link-color                 : $linkedin-color;/*$info-color;*/
+$link-color-hover           : mix(rgb(35, 73, 241), $link-color, 25%);
+$link-color-visited         : mix(rgb(168, 26, 250), $link-color, 25%);
 $masthead-link-color        : $primary-color;
-$masthead-link-color-hover  : mix(#000, $primary-color, 25%);
+$masthead-link-color-hover  : $linkedin-color; //mix(rgb(35, 73, 241), $primary-color, 25%);
 
 
 /*
