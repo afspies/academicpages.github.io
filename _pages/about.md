@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-This is Alex Spies' web presence!
+Hi!
