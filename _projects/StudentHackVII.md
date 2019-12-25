@@ -6,6 +6,8 @@ collection: projects
 ---
 
 ## To be added 
-
+[Rhys Kentish](https://uk.linkedin.com/in/rhys-kentish)
+[Amad Aslam](https://uk.linkedin.com/in/amad2)
+[Mohammed Patel](https://uk.linkedin.com/in/mohammad-patel-5b378412a/)
 <img src="/images/projects/studenthack2019/receiving_prizes.jpg" alt="Pleased" style="border-radius:2%;width:80%;align:center;" />
 *Team TamaGotcha proudly collecting our prizes*
