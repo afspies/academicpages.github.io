@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Alexander F. Spies"
   avatar           : "profile.jpg"
-  bio              : "Msc Student in AI and ML at Imperial College London.<\n> Interested in robust and generalizable AI approaches - currently investigating Neuro-symbolic hybrid approaches, as it seemed like a logical direction."
+  bio              : "Msc student in AI and ML at <a href='https://www.imperial.ac.uk/computing/research/artificial-intelligence/'>Imperial College London</a>.<br/> Interested in robust and generalizable AI approaches - currently investigating Neuro-symbolic hybrid approaches, as they present a logical solution."
   location         : 
   employer         : "Imperial College London"
   googlescholar    : "https://scholar.google.com/citations?user=Jfp2pAQAAAAJ"
