@@ -5,7 +5,6 @@ collection: projects
 
 ---
 
-## To be added 
 [Rhys Kentish](https://uk.linkedin.com/in/rhys-kentish)
 [Amad Aslam](https://uk.linkedin.com/in/amad2)
 [Mohammed Patel](https://uk.linkedin.com/in/mohammad-patel-5b378412a/)
