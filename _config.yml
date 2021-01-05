@@ -10,7 +10,7 @@ locale                   : "en-GB"
 title                    : "A. Spies"
 title_separator          : "-"
 name                     : &name "Alexander Fabian Spies"
-description              : &description "MSc Student at Imperial College London"
+description              : &description "Ph.D. Candidate at Imperial College London"
 url                      : "https://afspies.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "afspies/academic-page"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Alexander F. Spies"
   avatar           : "profile.jpg"
-  bio              : "Msc student in AI and ML at <a href='https://www.imperial.ac.uk/computing/research/artificial-intelligence/'>Imperial College London</a>.<br/> Interested in robust and generalizable AI approaches - currently investigating Neuro-symbolic hybrid approaches, as they present a logical solution."
+  bio              : "Ph.D. Candidate at <a href='https://www.imperial.ac.uk/computing/research/artificial-intelligence/'>ICL</a>.<br/> Interested in Neurosymbolic and Object-Centric Learning."
   location         : 
   employer         : "Imperial College London"
   googlescholar    : "https://scholar.google.com/citations?user=Jfp2pAQAAAAJ"
   email            : "alex@afspies.com"
-  researchgate     : "https://www.researchgate.net/profile/Alexander_Spies"
+  # researchgate     : #"https://www.researchgate.net/profile/Alexander_Spies"
   uri              :
   bitbucket        :
   codepen          :
@@ -180,9 +180,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  projects:
-    output: true
-    permalink: /:collection/:path/
+  # projects:
+  #   output: true
+  #   permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
@@ -228,14 +228,14 @@ defaults:
       share: true
       comments: true
   # _projects
-  - scope:
-      path: ""
-      type: projects
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
+  # - scope:
+  #     path: ""
+  #     type: projects
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     share: true
+  #     comments: true
   # _talks
   - scope:
       path: ""
