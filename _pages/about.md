@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Ph.D. Candidate in CS at [Imperial College London](https://www.imperial.ac.uk/computing/research/artificial-intelligence/') - Currently working on Object-Centric learning under the supervision of <a href="https://wp.doc.ic.ac.uk/arusso/">Prof. A. Russo </a> and <a href="https://www.doc.ic.ac.uk/~mpsha/"> Prof. M. Shanahan</a>. 
+I am a Ph.D. Candidate in CS at [Imperial College London](https://www.imperial.ac.uk/computing) - Currently working on Object-Centric learning, advised by <a href="https://wp.doc.ic.ac.uk/arusso/">Prof. A. Russo </a> and <a href="https://www.doc.ic.ac.uk/~mpsha/"> Prof. M. Shanahan</a>. 
 
 I previously completed an MSc in AI and ML at Imperial, and an MPhys in Physics with Theoretical Physics at the <a href="https://www.manchester.ac.uk/">University of Manchester</a>.
 
