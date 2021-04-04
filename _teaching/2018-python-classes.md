@@ -1,11 +1,11 @@
 ---
-title: "Introductory Python Course"
+title: Introductory Python Course
+date: 2018-10-01 00:00:00 +01:00
+permalink: "/teaching/2018-python-classes"
 collection: teaching
-type: "Extracurricular course"
-permalink: /teaching/2018-python-classes
-venue: "University of Manchester, CS Department"
-date: 2018-10-01
-location: "Manchester, GB"
+type: Extracurricular course
+venue: University of Manchester, CS Department
+location: Manchester, GB
 comments: false
 ---
 
