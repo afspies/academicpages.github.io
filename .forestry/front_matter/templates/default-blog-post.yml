@@ -1,0 +1,16 @@
+---
+label: Default Blog Post
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: permalink
+  label: permalink
+- type: list
+  name: tags
+  label: tags
