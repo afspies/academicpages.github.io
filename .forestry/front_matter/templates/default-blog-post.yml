@@ -1,7 +1,4 @@
 ---
----
-
----
 label: Default Blog Post
 hide_body: false
 fields:
@@ -17,3 +14,5 @@ fields:
 - type: list
   name: tags
   label: tags
+pages:
+- _posts/newpost.md
