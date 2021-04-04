@@ -1,6 +1,6 @@
 ---
 title: Draft Post
-date: 2021-04-04 18:25:19.585000000 +01:00
+date: 2021-04-04 18:25:19 +01:00
 categories:
 - Jekyll
 tags:
