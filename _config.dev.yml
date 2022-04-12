@@ -6,8 +6,8 @@ analytics:
   provider: false
 
 comments:
-  disqus:
-    shortname            : "mmistakes-dev"
+  commentbox:
+    project_id  : "5735519099027456-proj"
 
 sass:
   style: expanded

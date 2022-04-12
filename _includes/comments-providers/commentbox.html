@@ -1,0 +1,5 @@
+{% if site.comments.commentbox.project_id %}
+<script src="https://unpkg.com/commentbox.io/dist/commentBox.min.js"></script>
+<script>commentBox('{{ site.comments.commentbox.project_id }}')</script>
+<noscript>Please enable JavaScript to view the <a href="https://commentbox.io/?ref_noscript">comments powered by Commentbox.</a></noscript>
+{% endif %}

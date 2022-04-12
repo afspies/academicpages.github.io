@@ -75,21 +75,15 @@ future: true
 read_more: disabled
 talkmap_link: false
 comments:
-  provider: disqus
-  disqus:
-    shortname: afspies-com
-  discourse:
-    server: 
-  facebook:
-    appid: 
-    num_posts: 
-    colorscheme: 
+  provider: commentbox
+  commentbox:
+    project_id: 5735519099027456-proj
 staticman:
   allowedFields:
-  - name
-  - email
-  - url
-  - message
+    - name
+    - email
+    - url
+    - message
   branch: gh-pages
   commitMessage: New comment.
   filename: comment-{@timestamp}

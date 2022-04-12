@@ -13,6 +13,8 @@
   {% include /comments-providers/staticman.html %}
 {% when "custom" %}
   {% include /comments-providers/custom.html %}
+{% when "commentbox" %}
+  {% include /comments-providers/commentbox.html %}
 {% endcase %}
 
 {% endif %}
