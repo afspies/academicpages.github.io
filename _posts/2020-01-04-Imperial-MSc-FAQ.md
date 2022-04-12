@@ -8,3 +8,5 @@ tags:
 ---
 
 A number of prospective MSc students have reached out to me in the past with questions about the MSc in AI and ML at Imperial, I've compiled some of my answers here.
+
+TBC
