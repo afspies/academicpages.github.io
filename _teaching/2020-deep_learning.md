@@ -1,6 +1,6 @@
 ---
 title: Deep Learning
-date: 2020-09-01 00:00:00 +01:00
+date: 2020-09-02 00:00:00 +01:00
 permalink: "/teaching/deep_learning"
 collection: teaching
 type: Master's Course
@@ -9,8 +9,6 @@ location: London UK
 comments: false
 ---
 Designed Coursework on VAEs and GANs alongside <a href="https://harrycoppock.com/">Harry Coppock</a>. Prepared an <a href="https://github.com/afspies/attention-tutorial">tutorial on Attention mechanisms in Deep Learning</a>. Taught students in Lab Sessions, answered questions and oversaw coursework marking. Spearheaded efforts to use <a href="https://www.paperspace.com/">Paperspace</a> platform to allow students to train models with greater compute.
-
-In 2021 developed an autograding framework for the Courseworks, combining existing departmental tools with <a href="https://otter-grader.readthedocs.io/en/latest/">Otter Grader</a> to automatically mark student's Jupyter Notebook submissions - including unit tests for various Deep Learning models. Again aided with material creation and organization.
 <!-- 
 Materials
 ======
