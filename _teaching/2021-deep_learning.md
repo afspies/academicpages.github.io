@@ -1,7 +1,7 @@
 ---
 title: Deep Learning
 date: 2021-09-02 00:00:00 +01:00
-permalink: "/teaching/deep_learning"
+permalink: "/teaching/deep_learning2022"
 collection: teaching
 type: Master's Course
 venue: Imperial College London, Department of Computing
