@@ -12,16 +12,16 @@ I am a Ph.D. Candidate in CS at [Imperial College London](https://www.imperial.a
 
 I previously completed an MSc in AI and ML at Imperial, and an MPhys in Physics with Theoretical Physics at the <a href="https://www.manchester.ac.uk/">University of Manchester</a>.
 
-# Before Contacting Me
+<!-- # Before Contacting Me
 I am not currently looking for full-time positions. However, I am always excited to discuss Ph.D. internship opportunites with a focus on Neurosymbolic and Object-Centric learning techniques. 
 
 If you have questions about the **MSc in AI and ML** at Imperial, please see if these have been addressed in the [FAQ](/posts/2021/01/imperial-msc-faq) before reaching out to me.
 
-I am more likely to respond to emails than LinkedIn requests.
+I am more likely to respond to emails than LinkedIn requests. -->
 
-<br/><br/>
+<!-- <br/><br/> -->
 
-# Posts
+<!-- # Posts
 <ol>
 {% for post in site.posts %}
   <li>
@@ -29,4 +29,4 @@ I am more likely to respond to emails than LinkedIn requests.
     {{ post.excerpt }}
   </li>
 {% endfor %}
-</ol>
+</ol> -->
