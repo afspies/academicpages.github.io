@@ -5,7 +5,7 @@ permalink: "/publication/2022-07-sparse-reasoning"
 collection: publications
 excerpt: Assessing the extent to which sparsity and structured (Obect-Centric) representations are beneficial for neural relational reasoning.
 venue: ICML Dynn Workshop (<b>Spotlight</b>)
-paperurl: https://arxiv.org/abs/2207.07512
+paperurl: https://arxiv.org/pdf/2207.07512.pdf
 biburl: "/files/bib_entries/spies2022sparserelational.bib"
 citation: <b>Spies, A.F.</b>, Russo, A., Shanahan, M. (2022). Sparse Relational Reasoning with Object-Centric Representations. <i>ICML 2022 DyNN Workshop</i>.
 author_profile: false
