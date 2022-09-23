@@ -13,6 +13,7 @@ author_profile: false
 
 We investigate the composability of soft-rules learned by relational neural architectures when operating over object-centric (slot-based) representations, under a variety of sparsity-inducing constraints. We find that increasing sparsity, especially on features, improves the performance of some models and leads to simpler relations. Additionally, we observe that object-centric representations can be detrimental when not all objects are fully captured; a failure mode to which CNNs are less prone. These findings demonstrate the trade-offs between interpretability and performance, even for models designed to tackle relational tasks.
 
+[Recorded Talk on SlidesLive](https://slideslive.com/38986202/sparse-relational-reasoning-with-objectcentric-representations)
 [Download paper here](https://arxiv.org/abs/2207.07512)
 
 
