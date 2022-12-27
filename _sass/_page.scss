@@ -16,6 +16,17 @@
   }
 }
 
+// Table of contents styling
+.section-nav {
+  background-color: rgba(244, 243, 243, 0.84);
+  margin: 5px 0;
+  padding: 10px 30px;
+  border: 1px solid #c6c1c1;
+  border-radius: 3px;
+  right: 5px;
+  position: fixed;
+}
+
 .page {
   @include breakpoint($large) {
     @include span(10 of 12 last);
