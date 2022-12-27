@@ -53,7 +53,7 @@
     {% endif %}
     <!--  include site baseurl -->
     {% if post.biburl and post.citation and post.paperurl %}
-      <p> {{ post.citation }} [<a href="{{site.baseurl}}/{{ post.biburl }}"><u>BIB</u></a>] [<a href="{{ post.paperurl }}"><u>PDF</u></a>]</p>
+      <p> {{ post.citation }} [<a href="{{site.url}}{{ post.biburl }}"><u>BIB</u></a>] [<a href="{{ post.paperurl }}"><u>PDF</u></a>]</p>
     {% elsif post.citation and post.paperurl %}
       <p> {{ post.citation }} [<a href="{{ post.paperurl }}"><u>PDF</u></a>]</p>
     {% elsif post.citation %}
