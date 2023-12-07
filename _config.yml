@@ -123,10 +123,10 @@ analytics:
   google:
     tracking_id: UA-121968075-1
 author:
-  name: Alexander F. Spies
+  name: Alex Spies
   avatar: profile.jpg
-  bio: Ph.D. Candidate at <a href='https://www.imperial.ac.uk/computing'>ICL</a>.<br/>
-    Interested in Neurosymbolic and Object-Centric Learning.
+  bio: Research Fellow @ <a href='https://www.nii.ac.jp/en/'>NII</a><br/> PhD Candidate @ <a href='https://www.imperial.ac.uk/computing'>ICL</a><br/>
+    Mechanistic Interpretability & Object-Centric Representations
   location: 
   employer: Imperial College London
   googlescholar: https://scholar.google.com/citations?user=Jfp2pAQAAAAJ
