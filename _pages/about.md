@@ -25,12 +25,3 @@ I am more likely to respond to emails than LinkedIn requests. -->
 
 <!-- <br/><br/> -->
 
-<!-- # Posts
-<ol>
-{% for post in site.posts %}
-  <li>
-    <a href="{{ post.url }}">{{ post.title }}</a>
-    {{ post.excerpt }}
-  </li>
-{% endfor %}
-</ol> -->
