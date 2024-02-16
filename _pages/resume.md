@@ -12,8 +12,8 @@ redirect_from:
 
 <!-- [Download PDF](/files/Alex_Spies-CV.pdf) -->
 
-<object data="/files/resume-2024.pdf" type="application/pdf" width="100%" height="100%">
-  <a href="/files/resume-2024.pdf">Available as PDF</a>
+<object data="/files/alex_spies-resume-2024.pdf" type="application/pdf" width="100%" height="100%">
+  <a href="/files/alex_spies-resume-2024.pdf">Available as PDF</a>
 </object>
 
 <!-- 
