@@ -9,8 +9,8 @@ main:
   - title: "Teaching"
     url: /teaching/    
 
-  - title: "Fun"
-    url: https://alexioli.notion.site/Things-that-might-be-cool-eb2007cc56574fba98bf6c1c8b14d182
+  # - title: "Fun"
+  #   url: https://alexioli.notion.site/Things-that-might-be-cool-eb2007cc56574fba98bf6c1c8b14d182
 
     
   # - title: "Projects"
