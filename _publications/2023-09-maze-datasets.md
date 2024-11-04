@@ -9,6 +9,7 @@ paperurl: https://arxiv.org/abs/2309.10498
 biburl: "/files/bib_entries/ivanitskiy2023mazedataset.bib"
 citation: Ivanitskiy, M.I., Shah, R., <b>Spies, A.F.</b> et al. A Configurable Library for Generating and Manipulating Maze Datasets. <i>arXiv</i>, 10.48550/arXiv.2309.10498 (2023).
 author_profile: false
+teaser: "/images/teasers/teaser_mazedataset.png"
 ---
 
 Understanding how machine learning models respond to distributional shifts is a key research challenge. Mazes serve as an excellent testbed due to varied generation algorithms offering a nuanced platform to simulate both subtle and pronounced distributional shifts. To enable systematic investigations of model behavior on out-of-distribution data, we present 𝚖𝚊𝚣𝚎-𝚍𝚊𝚝𝚊𝚜𝚎𝚝, a comprehensive library for generating, processing, and visualizing datasets consisting of maze-solving tasks. With this library, researchers can easily create datasets, having extensive control over the generation algorithm used, the parameters fed to the algorithm of choice, and the filters that generated mazes must satisfy. Furthermore, it supports multiple output formats, including rasterized and text-based, catering to convolutional neural networks and autoregressive transformer models. These formats, along with tools for visualizing and converting between them, ensure versatility and adaptability in research applications.

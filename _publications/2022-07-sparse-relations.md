@@ -9,6 +9,7 @@ paperurl: https://arxiv.org/pdf/2207.07512.pdf
 biburl: "/files/bib_entries/spies2022sparserelational.bib"
 citation: <b>Spies, A.F.</b>, Russo, A., Shanahan, M. (2022). Sparse Relational Reasoning with Object-Centric Representations. <i>ICML 2022 DyNN Workshop</i>.
 author_profile: false
+teaser: "/images/teasers/teaser_sparseobjects.png"
 ---
 
 We investigate the composability of soft-rules learned by relational neural architectures when operating over object-centric (slot-based) representations, under a variety of sparsity-inducing constraints. We find that increasing sparsity, especially on features, improves the performance of some models and leads to simpler relations. Additionally, we observe that object-centric representations can be detrimental when not all objects are fully captured; a failure mode to which CNNs are less prone. These findings demonstrate the trade-offs between interpretability and performance, even for models designed to tackle relational tasks.

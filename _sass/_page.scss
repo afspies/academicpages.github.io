@@ -410,3 +410,20 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+
+.archive__item-teaser {
+  position: relative;
+  overflow: hidden;
+  
+  img {
+    width: 100%;
+    max-height: 200px; /* Adjust this value as needed */
+    object-fit: cover;
+  }
+}
+
+.list__item {
+  .archive__item-teaser {
+    margin-bottom: 1em;
+  }
+}

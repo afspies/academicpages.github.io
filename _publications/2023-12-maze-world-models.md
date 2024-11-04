@@ -1,7 +1,7 @@
 ---
 title: Structured World Representations in Maze-Solving Transformers
 date: 2023-09-19 00:00:00 +01:00
-permalink: "/publication/2023-09-maze-datasets"
+permalink: "/publication/2023-09-maze-transformers"
 collection: publications
 excerpt: Transformers trained to solve mazes form linear representations of maze structure, and acquire interpretable attention heads which facilitate path-following.
 venue: NeurIPS 2023 UniReps Workshop
@@ -9,6 +9,7 @@ paperurl: https://arxiv.org/abs/2312.02566
 biburl: "/files/bib_entries/ivanitskiy2023transformerworldmodels.bib"
 citation: Ivanitskiy, M.I.*, <b>Spies, A.F.</b>*, Räuker, T.* et al. Structured World Representations in Maze-Solving Transformers. <i>NeurIPS 2023 UniReps Workshop</i>.
 author_profile: false
+teaser: "/images/teasers/teaser_mazetransformers.gif"
 ---
 
 See blogpost: [Structured World Representations in Maze-Solving Transformers](https://unsearch.org/research/01_maze_transformer_world_representations/)
